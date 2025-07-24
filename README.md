@@ -1,7 +1,6 @@
-# nhunguyen0118.github.io
 # My Data Portfolio
 
-## 👋 Hi, I'm Nhu – a data enthusiast!
+👋 Hi, I'm Nhu – a data enthusiast!
 
 I’m passionate about discovering insights from data and building data-driven solutions. With a background in Chemical Engineering, I am currently diving deeper into Data Science and Analytics.
 
